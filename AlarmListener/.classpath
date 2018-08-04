@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/jsapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mine/Desktop/TheftAlarm/AlarmListenerLibrary/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
